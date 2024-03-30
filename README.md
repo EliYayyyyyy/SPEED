@@ -1,2 +1,2 @@
 # SPEED
-Streamlined Prime Editing epegRNA and ngRNA Design 
+Streamlined Prime Editing EpegRNA and ngRNA Design 
